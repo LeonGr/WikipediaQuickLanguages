@@ -72,8 +72,10 @@ function showFlags(stored) {
         existingFlag.remove();
     }
 
+    let isMobileVersion = window.location.toString().includes(".m.") || !document.querySelector("#p-lang-btn");
+
     // Check if we are on the mobile version of Wikipedia
-    if (window.location.toString().includes(".m.")) {
+    if (isMobileVersion) {
         showFlagsMobile(selectedLanguages)
     } else {
         showFlagsDesktop(selectedLanguages)
