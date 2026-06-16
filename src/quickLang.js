@@ -87,7 +87,7 @@ const codeToFlags = {
     // Azerbaijani Wikipedia; Azərbaycanca Vikipediya; Azerbaijani; Latn; az; 214,129; 947; January 2004 (unknown day);
     "az": "🇦🇿",
     // Cantonese Wikipedia; Traditional Chinese: 粵文維基百科 (Jyutping: Jyut6 man4 wai4 gei1 baak3 fo1); Cantonese; Hant; zh-yue; 150,104; 856; 25 March 2006;
-    "zh": "-yue🇭🇰",
+    "zh-yue": "🇭🇰",
     // Uzbek Wikipedia; Oʻzbekcha Vikipediya (Ўзбекча Википедия); Uzbek; Latn/Cyrl; uz; 340,749; 823; 21 December 2003;
     "uz": "🇺🇿",
     // Slovene Wikipedia; Slovenska Wikipedija; Slovene; Latn; sl; 197,574; 764; 26 February 2002;
@@ -137,7 +137,7 @@ const codeToFlags = {
     // Afrikaans Wikipedia; Afrikaanse Wikipedia; Afrikaans; Latn; af; 128,896; 285; 16 November 2001;
     "af": "🇿🇦",
     // Belarusian Wikipedia (Classical); Беларуская Вікіпэдыя (Bielaruskaja Vikipiedyja); Belarusian (Taraškievica orthography); Cyrl; be-tarask; 90,892; 275; 27 March 2007;
-    "be": "-tarask🇧🇾*",
+    "be-tarask": "🇧🇾*",
     // Hausa Wikipedia; Wikipedia Hausa; Hausa; Latn; ha; 97,084; 260; Unknown date, 2020;
     "ha": "png:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_the_Hausa_people.svg/120px-Flag_of_the_Hausa_people.svg.png",
     // Tagalog Wikipedia; Wikipediang Tagalog; Tagalog; Latn; tl; 49,048; 247; 1 December 2003;
@@ -201,7 +201,7 @@ const codeToFlags = {
     // West Frisian Wikipedia; Frysktalige Wikipedy; West Frisian; Latn; fy; 59,946; 106; 2 September 2002;
     "fy": "png:https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Frisian_flag.svg/120px-Frisian_flag.svg.png",
     // Southern Min Wikipedia; Traditional Chinese: 閩南語維基百科 Pe̍h-ōe-jī: Holopedia or Wikipedia Bân-lâm-gú; Southern Min; Latn/Hant; zh-min-nan; 434,068; 106; 28 May 2004;
-    "zh": "-min-nan🇹🇼",
+    "zh-min-nan": "🇹🇼",
     // Moroccan Arabic Wikipedia; ويكيبيديا المغربية (Wīkībīdiyā maḡribiyy); Moroccan Arabic; Arab; ary; 13,823; 102; 20 July 2020;
     "ary": "🇲🇦",
     // Wu Wikipedia; Traditional Chinese: 吳語維基百科, simplified Chinese: 吴语维基百科 (Romanized: Wu-nyu Vi-ci-pah-khu); Wu Chinese; Hans/Hant; wuu; 48,167; 101; 1 October 2006;
@@ -211,7 +211,7 @@ const codeToFlags = {
     // South Azerbaijani Wikipedia; تورکجه ویکی‌پدیا (Azərbaycanca Vikipediya); South Azerbaijani; Arab; azb; 244,609; 87; 22 July 2015;
     "azb": "🇦🇿",
     // Classical Chinese Wikipedia; 文言維基大典 (Wényán wéijī dàdiǎn); Classical Chinese; Hant; zh-classical; 14,032; 84; 31 July 2006;
-    "zh": "-classical🇨🇳*",
+    "zh-classical": "🇨🇳*",
     // Malagasy Wikipedia; Wikipedia amin'ny teny malagasy; Malagasy; Latn; mg; 102,823; 84; April 2004 (unknown day);
     "mg": "🇲🇬",
     // Kinyarwanda Wikipedia ; Wikipediya mu Ikinyarwanda; Kinyarwanda; Latn; rw; 9,644; 76; Unknown date;
