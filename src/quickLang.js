@@ -185,7 +185,7 @@ const codeToFlags = {
     // Tatar Wikipedia; Татар Википедиясе (Tatar Wikipediäse); Tatar; Cyrl; tt; 706,302; 129; 15 September 2003;
     "tt": "png:https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Tatarstan.svg/120px-Flag_of_Tatarstan.svg.png",
     // Scots Wikipedia; Scots Wikipædia; Scots; Latn; sco; 34,196; 128; 23 June 2005;
-    "sco": "🏴󠁧󠁢󠁳󠁣",
+    "sco": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
     // Igbo Wikipedia; Wikipedia Igbo; Igbo; Latn; ig; 45,813; 126; Unknown date;
     "ig": "png:https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Biafra.svg/120px-Flag_of_Biafra.svg.png",
     // Occitan Wikipedia; Wikipèdia en occitan; Occitan; Latn; oc; 90,749; 123; 20 October 2003;
